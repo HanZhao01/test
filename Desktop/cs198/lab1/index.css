@@ -1,0 +1,42 @@
+#ocean {
+    background-color: #FF0000;
+}
+.scary {
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+body {
+    font-size: 20px;
+    color: #F3F2FF;
+}
+
+.box {
+    flex: 1;
+    border: solid 1px black;
+    border-style: solid;
+    padding: 16px;
+    border-radius: 10%;
+
+}
+
+.big {
+    flex: 2;
+}
+
+.flex-container {
+    display: flex;
+    height: 200px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.test {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: aqua;
+    
+}

@@ -1,0 +1,32 @@
+.body {
+
+}
+
+.title {
+    background-color: yellow;
+    padding: 20px;
+}
+
+.box {
+    flex: 1;
+    border: solid 1px black;
+    border-style: solid;
+    padding: 16px;
+    border-radius: 10%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(226, 158, 169)
+}
+
+.card {
+    background-color: rgb(77, 187, 77);
+    margin: 20px;
+    padding:10px;
+    text-align: center;
+    box-shadow: 4px 5px 16px grey;
+    display:flex;
+}
